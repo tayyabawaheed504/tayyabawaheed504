@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tayyaba Waheed 👋
 
-<!--
-**tayyabawaheed504/tayyabawaheed504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Aspiring Data Analyst | Power BI Enthusiast | Learning Python for AI/ML**
 
-Here are some ideas to get you started:
+I'm a BS Information Technology student passionate about turning raw data into meaningful insights. Currently building my skills in data analysis, visualization, and Python programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm working with
+- **Power BI** – Dashboard building, DAX, Power Query
+- **Python** – OOP, file handling, data structures (currently learning AI/ML track)
+- **SQL** – Learning JOINs, Window Functions, CTEs
+
+## 🌱 Currently Learning
+- Python for AI/ML (DigiSkills course)
+- Data Analysis with Pandas & NumPy
+- Machine Learning fundamentals
+
+## 🎯 Goals
+- Build a strong portfolio with real-world data projects
+- Land an internship as a Data/BI Analyst
+- Grow into a Data Scientist / BI Developer role
+
+## 📫 Connect with me
+- LinkedIn: [Tayyaba Waheed](https://www.linkedin.com/in/tayyaba-waheed-413421359)
+
+---
+⭐️ Feel free to explore my repositories and check out my projects!
