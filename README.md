@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Learning+Python+for+AI%2FML+%F0%9F%90%8D;Power+BI+%7C+SQL+%7C+Excel+%E2%9A%A1;Building+My+Data+Analyst+Portfolio+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=tayyabawaheed504&color=7dd3fc&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/tayyabawaheed504?style=flat-square&color=7dd3fc" />
-
 </div>
 
 ---
