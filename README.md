@@ -69,6 +69,20 @@ A Python-based command-line application to track personal income and expenses, b
 | **Repository** | [expense-tracker-python](https://github.com/tayyabawaheed504/expense-tracker-python) |
 
 Built as a hands-on application of core Python fundamentals from the DigiSkills "AI with Python" course — designed to reinforce OOP structure and robust error handling in a real-world scenario.
+### 🍕 Pizza Sales Analysis Dashboard
+
+Business intelligence project analyzing pizza sales data to uncover revenue trends, top/worst-selling items, and peak order times.
+
+| Aspect | Detail |
+|---|---|
+| Stack | MySQL, Excel |
+| Concepts | Aggregations, GROUP BY, business KPIs, data visualization |
+| Environment | MySQL Workbench, Excel |
+| Status | ✅ Completed |
+| Repository | [pizza-sql-excel-dashboard](https://github.com/tayyabawaheed504/pizza-sql-excel-dashboard) |
+
+Analyzed 48,000+ order records to build an interactive dashboard with KPIs and 7 charts covering sales trends, category performance, and top-selling products.
+
 
 </details>
 
