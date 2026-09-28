@@ -82,6 +82,22 @@ Business intelligence project analyzing pizza sales data to uncover revenue tren
 | Repository | [pizza-sql-excel-dashboard](https://github.com/tayyabawaheed504/pizza-sql-excel-dashboard) |
 
 Analyzed 48,000+ order records to build an interactive dashboard with KPIs and 7 charts covering sales trends, category performance, and top-selling products.
+<details>
+<summary>📊 Power BI Executive Sales Dashboard</summary>
+
+A Power BI dashboard analyzing retail sales data to visualize sales trends, profitability, geographic distribution, and product performance.
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Stack** | Power BI, Power Query, DAX, Excel |
+| **Concepts** | Data Cleaning, Data Modeling, Measures (SUMX), Custom Visuals |
+| **Environment** | Power BI Desktop |
+| **Status** | 🟢 Completed |
+| **Repository** | [Power-BI-Executive-Sales-Dashboard](https://github.com/tayyabawaheed504/Power-BI-Executive-Sales-Dashboard) |
+
+Built as a hands-on exercise for the DigiSkills "Data Analytics and Business Intelligence" (DBI101) course — transforming raw Excel data into interactive executive insights.
+
+</details>
 
 
 </details>
